@@ -29,7 +29,7 @@ https://icecast.radiofrance.fr/fipjazz-hifi.aac
 https://kexp.streamguys1.com/kexp160.aac
 #EXTINF:-1 group-title="Radio",NTS Radio — Channel 1
 https://stream-relay-geo.ntslive.net/stream
-#EXTINF:-1 group-title="Radio",The Lot Radio — Brooklyn (audio + studio cam, HLS)
+#EXTINF:-1 group-title="Radio",The Lot Radio — Brooklyn (audio + studio cam HLS)
 https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8
 #EXTINF:-1 group-title="Radio",Radio Swiss Jazz
 http://stream.srg-ssr.ch/m/rsj/mp3_128
