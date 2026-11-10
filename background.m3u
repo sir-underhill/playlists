@@ -1,0 +1,74 @@
+#EXTM3U
+# background.m3u — one playlist for TV (Kodi on Firestick) + phone (VLC) + desktop (VLC)
+# maintained by Hermes; canonical copy: https://raw.githubusercontent.com/sir-underhill/playlists/main/background.m3u
+# last full verification: 2026-11-09 (all entries probe-verified end-to-end, dead entries removed)
+# to refresh: ask Hermes "re-verify my background playlist"
+
+# ── MUSIC-TV (radio, but with pictures) ──────────────────────────
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KjZFzNf.png" group-title="Music-TV",XITE Just Chill (lofi/chill music videos)
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+#EXTINF:-1 group-title="Music-TV",Stingray Cozy Cafe (acoustic + cafe ambiance)
+https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 group-title="Music-TV",Stingray Cityscapes (chill + city views)
+https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 group-title="Music-TV",Stingray DJAZZ (jazz + performance visuals)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music-TV",Qwest TV Jazz & Beyond (curated by Quincy Jones)
+https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
+#EXTINF:-1 group-title="Music-TV",Stingray Classica (classical performances)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music-TV",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+
+# ── RADIO (audio only) ───────────────────────────────────────────
+# FLAC streams: desktop + phone VLC handle these; Transistor does not
+#EXTINF:-1 group-title="Radio",Radio Paradise (FLAC, lossless)
+https://stream.radioparadise.com/flac
+#EXTINF:-1 group-title="Radio",Radio Paradise — Mellow (FLAC)
+https://stream.radioparadise.com/mellow-flac
+#EXTINF:-1 group-title="Radio",Radio Paradise — Rock (FLAC)
+https://stream.radioparadise.com/rock-flac
+#EXTINF:-1 group-title="Radio",Radio Paradise — Global (FLAC)
+https://stream.radioparadise.com/global-flac
+#EXTINF:-1 group-title="Radio",FIP Paris (eclectic, no ads — HiFi AAC)
+https://icecast.radiofrance.fr/fip-hifi.aac
+#EXTINF:-1 group-title="Radio",FIP Jazz (HiFi AAC)
+https://icecast.radiofrance.fr/fipjazz-hifi.aac
+#EXTINF:-1 group-title="Radio",KEXP Seattle (160k AAC)
+https://kexp.streamguys1.com/kexp160.aac
+#EXTINF:-1 group-title="Radio",NTS Radio — Channel 1
+https://stream-relay-geo.ntslive.net/stream
+#EXTINF:-1 group-title="Radio",The Lot Radio — Brooklyn (audio + studio cam, HLS)
+https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8
+#EXTINF:-1 group-title="Radio",Radio Swiss Jazz
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1 group-title="Radio",Radio Swiss Classic
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:-1 group-title="Radio",Radio Swiss Pop
+http://stream.srg-ssr.ch/m/rsp/mp3_128
+#EXTINF:-1 group-title="Radio",Rock Antenne Munich
+https://s1-webradio.rockantenne.de/rockantenne/stream/mp3
+
+# ── AMBIENT / VISUAL (slow TV slot) ─────────────────────────────
+#EXTINF:-1 group-title="Ambient",Red Bull TV (outdoor/adventure films — ad-free)
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d79288/0b73ace69ebb45eaa249bb87837cb958/RedBullTV/IFACE/CTW/101/master.m3u8
+#EXTINF:-1 group-title="Ambient",Love Nature (nature docs — occasional ad breaks)
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 group-title="Ambient",WeatherNation (weather — occasional ad breaks)
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+
+# ── WORLD NEWS (public broadcasters, ad-free) ───────────────────
+#EXTINF:-1 group-title="News",DW English
+https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 group-title="News",Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="News",NHK World-Japan
+https://cdn.pishow.tv/ott/live/455/master.m3u8
+#EXTINF:-1 group-title="News",France 24 English
+https://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="News",TRT World
+https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
+#EXTINF:-1 group-title="News",Africanews English
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+#EXTINF:-1 group-title="News",ABC News Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
