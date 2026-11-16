@@ -11,7 +11,7 @@ https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m
 https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
 #EXTINF:-1 group-title="Music-TV",Stingray Classica (classical performances)
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Music-TV",Stingray Easy Listening
+#EXTINF:-1 group-title="Music-TV" tvg-id="USBD3500011J3",Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Radio",The Lot Radio — Brooklyn (audio + studio cam HLS)
 https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8
@@ -35,13 +35,13 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:-1 group-title="News",ABC News Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 group-title="Movies",24 Hour Free Movies
+#EXTINF:-1 group-title="Movies" tvg-id="647f8d22a2fc3fadb4721685-5fd115bab7ef8d002dcf181d",24 Hour Free Movies
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
-#EXTINF:-1 group-title="Movies",Gravitas Movies
+#EXTINF:-1 group-title="Movies" tvg-id="USBD700011RE",Gravitas Movies
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 #EXTINF:-1 group-title="Movies",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
-#EXTINF:-1 group-title="Movies",MovieSphere
+#EXTINF:-1 group-title="Movies" tvg-id="USBD17000117B",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies",MyTime Movie Network East
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
@@ -51,49 +51,49 @@ https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 group-title="Movies",The Movie Club +2
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
-#EXTINF:-1 group-title="Movies",GREAT! movies
+#EXTINF:-1 group-title="Movies" tvg-id="GBBC900007Q5",GREAT! movies
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="Documentary",Curiosity NOW EN
 https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary",Autentic History
+#EXTINF:-1 group-title="Documentary" tvg-id="GB3200005SO",Autentic History
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
-#EXTINF:-1 group-title="Documentary",History Hit
+#EXTINF:-1 group-title="Documentary" tvg-id="GBBA2200005ZA",History Hit
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",History (United States)
 http://212.5.144.156:8080/history/index.m3u8
-#EXTINF:-1 group-title="Documentary",PBS Antiques Roadshow
+#EXTINF:-1 group-title="Documentary" tvg-id="USBD4200017GS",PBS Antiques Roadshow
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Fox Sports News
 https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Sports",Golf Channel
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Sports",More Than Sports TV
+#EXTINF:-1 group-title="Sports" tvg-id="DEBD26000034M",More Than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Sports",Trace Sport Stars
+#EXTINF:-1 group-title="Sports" tvg-id="IN8000085E",Trace Sport Stars
 http://ott.watch/XE5QWWBZ87/256/tracks-v1a1/mono.ts.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Sports",DD Sports HD
 https://fta.ektv.in/live/280/master.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Anime",Toonami Aftermath
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXTINF:-1 group-title="Anime",RetroCrush
+#EXTINF:-1 group-title="Anime" tvg-id="USBC36000073J",RetroCrush
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Anime",Aniplus Asia
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 #EXTINF:-1 group-title="Anime",MAX Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
-#EXTINF:-1 group-title="Anime",Naruto
+#EXTINF:-1 group-title="Anime" tvg-id="US2000014IC",Naruto
 https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Anime",Yu-Gi-Oh!
+#EXTINF:-1 group-title="Anime" tvg-id="IT700007M3",Yu-Gi-Oh!
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 #EXTINF:-1 group-title="Anime",MeTV Toons
 https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8
-#EXTINF:-1 group-title="Anime",Animation+
+#EXTINF:-1 group-title="Anime" tvg-id="US400002PS",Animation+
 https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
-#EXTINF:-1 group-title="Music-TV",XITE Hits
+#EXTINF:-1 group-title="Music-TV" tvg-id="USBD3300004RH",XITE Hits
 https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
-#EXTINF:-1 group-title="Music-TV",XITE Rock x Metal
+#EXTINF:-1 group-title="Music-TV" tvg-id="USBB2300004KV",XITE Rock x Metal
 https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 #EXTINF:-1 group-title="Music-TV",California Music Channel
 https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
