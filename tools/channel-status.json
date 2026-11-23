@@ -226,8 +226,8 @@
   {
    "name": "DD Sports HD",
    "url": "https://fta.ektv.in/live/280/master.m3u8?checkedby:iptvcat.net",
-   "status": "DEAD",
-   "detail": "<urlopen error timed out>"
+   "status": "ALIVE",
+   "detail": "segment 4096B"
   },
   {
    "name": "Toonami Aftermath",
